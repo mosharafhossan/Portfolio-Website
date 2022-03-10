@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: #2a2930;
+    line-height: 100%;
+}
+.name-highlight{
+    color: #fa320f;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 50px;
+    padding-left: 5px;
+}
+.half-width img{
+    width: 600px;
+    padding-left: 150px;
+}
+.top-image{
+    background-image: url("images/green-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 700px;
+}
